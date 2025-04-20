@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# VS Code workspace settings (optional to share)
+.vscode/
+
+# Data and outputs (MNIST files, processed arrays, experiment outputs)
+data/
+outputs/
+
+# Orbax (future checkpoint directory)
+checkpoints/
+
+# Weights & Biases logs (if you add W&B later)
+wandb/

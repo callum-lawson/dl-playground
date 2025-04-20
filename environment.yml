@@ -1,0 +1,7 @@
+name: dl-playground
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.11
+prefix: /home/callum/miniconda3/envs/dl-playground
